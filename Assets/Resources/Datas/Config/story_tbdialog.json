@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "nameCn": "NPC",
+    "illustration": "",
+    "textCn": "Hi, I'm surprised to meet you here.",
+    "direction": ""
+  },
+  {
+    "id": 1,
+    "nameCn": "NPC",
+    "illustration": "",
+    "textCn": "Wow, so this is the truth of that rumor? I will bear in mind.",
+    "direction": ""
+  },
+  {
+    "id": 2,
+    "nameCn": "NPC",
+    "illustration": "",
+    "textCn": "Whatever it is.",
+    "direction": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Garden",
+    "Garden": 0,
+    "ThePalace": 1,
+    "Library": 2
+  },
+  {
+    "name": "The Palace",
+    "Garden": 1,
+    "ThePalace": 0,
+    "Library": 1
+  },
+  {
+    "name": "Library",
+    "Garden": 2,
+    "ThePalace": 1,
+    "Library": 0
+  }
+]

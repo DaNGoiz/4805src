@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "真王",
+    "tag": "政权",
+    "descStart": "皇宫里似乎有继承人流言……",
+    "descEnd": "我才是真正的王位继承人！",
+    "next": "1",
+    "clues": "0,1",
+    "imagePath": "circle"
+  },
+  {
+    "id": 1,
+    "name": "知情者",
+    "tag": "小道消息",
+    "descStart": "对于我是继承人这件事，有知情者，会是谁呢……",
+    "descEnd": "太阳大臣一直都知道我是继承人，却从不提起。",
+    "next": "none",
+    "clues": "2",
+    "imagePath": "circle"
+  },
+  {
+    "id": 2,
+    "name": "吃肉",
+    "tag": "小道消息",
+    "descStart": "我要让皇宫里的人迷上吃怪物肉。",
+    "descEnd": "怪物肉就是世界上最美味的食材！",
+    "next": "none",
+    "clues": "3,4,5",
+    "imagePath": "circle"
+  }
+]

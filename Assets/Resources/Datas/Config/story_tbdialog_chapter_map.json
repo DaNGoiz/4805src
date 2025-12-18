@@ -1,0 +1,163 @@
+[
+  {
+    "id": 0,
+    "dialogName": "day0 – 初入森林·相遇",
+    "startRow": 0,
+    "chapterName": "1. 初入森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 1,
+    "dialogName": "day1 – 精灵秋叨·有风之地·西边森林的传闻·神秘的人偶",
+    "startRow": 65,
+    "chapterName": "1. 初入森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 2,
+    "dialogName": "day2 – 大雨·大鱼·永昼城的传说",
+    "startRow": 328,
+    "chapterName": "1. 初入森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 3,
+    "dialogName": "day3 – 受伤的村民·大战剑草蜥",
+    "startRow": 416,
+    "chapterName": "1. 初入森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 4,
+    "dialogName": "day4 – 马戏团·小游戏·水蛇",
+    "startRow": 683,
+    "chapterName": "2. 有风之地与古堡",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 5,
+    "dialogName": "day5 – 遥远国度的传说·仙子雕像",
+    "startRow": 1085,
+    "chapterName": "2. 有风之地与古堡",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 6,
+    "dialogName": "day6 – 落日森林·稻草人·南瓜头",
+    "startRow": 1326,
+    "chapterName": "2. 有风之地与古堡",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 7,
+    "dialogName": "day7 – 通往人间的道路·人偶·蓝色荨麻",
+    "startRow": 1634,
+    "chapterName": "2. 有风之地与古堡",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 8,
+    "dialogName": "day8 – 井·坠落之星",
+    "startRow": 1997,
+    "chapterName": "2. 有风之地与古堡",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 9,
+    "dialogName": "day9 – 神秘的枯树·洞穴",
+    "startRow": 2079,
+    "chapterName": "2. 有风之地与古堡",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 10,
+    "dialogName": "day10 – 魔法师小屋·神秘外来男子·爆炸的可乐·封冻的法阵",
+    "startRow": 2425,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 11,
+    "dialogName": "day11 – 炼药·前往边境森林",
+    "startRow": 2774,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 12,
+    "dialogName": "day12 – 边境要塞·冻湖·白雾里的魔法",
+    "startRow": 2867,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 13,
+    "dialogName": "day13 – 山地啤酒花·炼药",
+    "startRow": 3176,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 14,
+    "dialogName": "day14 – 移动·从古堡到有风之地，再到烛光森林",
+    "startRow": 3280,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 15,
+    "dialogName": "day15 – 冥想·梦之海海边·迷路的谭心燃",
+    "startRow": 3326,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 16,
+    "dialogName": "day16 – 纸牌·深渊湖",
+    "startRow": 3542,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 17,
+    "dialogName": "day17 – 炼药·返回要塞",
+    "startRow": 3751,
+    "chapterName": "3. 探索烛光森林和边境森林",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 18,
+    "dialogName": "day18 – 穿越白雾·黑冠城·高山矿洞",
+    "startRow": 3854,
+    "chapterName": "4. 黑冠城",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 19,
+    "dialogName": "day19 – 城堡·龙晶·苏醒的黑冠城",
+    "startRow": 4497,
+    "chapterName": "4. 黑冠城",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 20,
+    "dialogName": "day20 – 采药·拜访马戏团",
+    "startRow": 4936,
+    "chapterName": "4. 黑冠城",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 21,
+    "dialogName": "day21 – 沼泽花海",
+    "startRow": 5100,
+    "chapterName": "4. 黑冠城",
+    "chapter": "林中幽暗-跑团篇"
+  },
+  {
+    "id": 22,
+    "dialogName": "day22 – 前往古堡",
+    "startRow": 5329,
+    "chapterName": "4. 黑冠城",
+    "chapter": "林中幽暗-跑团篇"
+  }
+]

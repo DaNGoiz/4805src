@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "小刀",
+    "description": "一把留有血迹的小刀。",
+    "imagePath": "circle"
+  },
+  {
+    "id": 1,
+    "name": "密信",
+    "description": "信里写着：要找出真正的王！",
+    "imagePath": "circle"
+  },
+  {
+    "id": 2,
+    "name": "太阳大臣",
+    "description": "大臣其实早就知道我是王。",
+    "imagePath": "circle"
+  },
+  {
+    "id": 3,
+    "name": "士兵的话语",
+    "description": "“前线士兵因为没有补给，全都饿肚子！”兵营里一个士兵这样说道。",
+    "imagePath": "circle"
+  },
+  {
+    "id": 4,
+    "name": "渴望",
+    "description": "皇宫里有不少奇妙的食客。",
+    "imagePath": "circle"
+  },
+  {
+    "id": 5,
+    "name": "资源",
+    "description": "从前线可以获得不少怪物尸体。",
+    "imagePath": "circle"
+  }
+]
